@@ -13,3 +13,7 @@ I don't expect you to contribute to this repository, I made it for myself and my
 ## Licensing
 
 I don't give a shit to you copying these or smth. It is always better to write your own code. I advice you to use these as a reference and try to get the logic behind the problem instead of just copying the solutions and marking them as done. IDC, Just [do what the f*ck you want to](https://github.com/FireHead90544/daily-dsa-practice/blob/main/LICENSE), instead of eating my brain :)
+
+
+
+Don't mind me, unable to touch my pc for the time being and not wanting to reset my commit steak either. What a cheap trick, forgive me lord GitHub :')
