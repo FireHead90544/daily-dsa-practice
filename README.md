@@ -16,4 +16,4 @@ I don't give a shit to you copying these or smth. It is always better to write y
 
 
 
-Don't mind me, unable to touch my pc for the time being and not wanting to reset my commit steak either. What a cheap trick, forgive me lord GitHub 🥲 :")
+Don't mind me, unable to touch my pc for the time being and not wanting to reset my commit steak either. What a cheap trick, forgive me lord GitHub 🥲
